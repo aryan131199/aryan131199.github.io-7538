@@ -1,0 +1,54 @@
+{
+  "heading": "Experience",
+  "positions": [
+    {
+      "company": "Amazon",
+      "title": "Marketing Analyst",
+      "location": "",
+      "startDate": "2025",
+      "endDate": "Present",
+      "description": "Improved conversion rates by 18% through campaign performance analysis using SQL, identifying audience behavior trends and optimizing targeting strategies across paid and organic digital marketing campaigns.\nIncreased click-through rates by 22% by supporting A/B testing initiatives on ad creatives and landing pages, analyzing engagement data, and recommending campaign improvements based on performance trends.\nBuilt Tableau dashboards tracking campaign KPIs, conversion metrics, and channel performance, reducing reporting turnaround time by 35% and improving visibility for marketing and business stakeholders.\nImproved return on ad spends by 20% by reviewing campaign attribution data, identifying high-performing audience segments, and supporting budget optimization decisions across paid marketing channels.\nConducted customer segmentation and cohort analysis using behavioral data, helping marketing teams improve personalization strategies and increasing customer retention rates by 15% across lifecycle marketing campaigns.\nSupported campaign tracking and reporting accuracy by validating UTM parameters, monitoring GA4 performance metrics, and assisting with KPI reporting across Google Analytics and Tableau dashboards.\nCollaborated with marketing, analytics, and product teams to translate campaign data into actionable insights, supporting improvements to targeting strategies, messaging alignment, and overall campaign performance.\nReduced manual reporting effort by automating recurring campaign reports using SQL and Excel, improving reporting consistency and enabling stakeholders to access performance insights more efficiently across marketing initiatives.",
+      "achievements": [
+        "Improved conversion rates by 18% through campaign performance analysis using SQL, identifying audience behavior trends and optimizing targeting strategies across paid and organic digital marketing campaigns.",
+        "Increased click-through rates by 22% by supporting A/B testing initiatives on ad creatives and landing pages, analyzing engagement data, and recommending campaign improvements based on performance trends.",
+        "Built Tableau dashboards tracking campaign KPIs, conversion metrics, and channel performance, reducing reporting turnaround time by 35% and improving visibility for marketing and business stakeholders.",
+        "Improved return on ad spends by 20% by reviewing campaign attribution data, identifying high-performing audience segments, and supporting budget optimization decisions across paid marketing channels.",
+        "Conducted customer segmentation and cohort analysis using behavioral data, helping marketing teams improve personalization strategies and increasing customer retention rates by 15% across lifecycle marketing campaigns.",
+        "Supported campaign tracking and reporting accuracy by validating UTM parameters, monitoring GA4 performance metrics, and assisting with KPI reporting across Google Analytics and Tableau dashboards.",
+        "Collaborated with marketing, analytics, and product teams to translate campaign data into actionable insights, supporting improvements to targeting strategies, messaging alignment, and overall campaign performance.",
+        "Reduced manual reporting effort by automating recurring campaign reports using SQL and Excel, improving reporting consistency and enabling stakeholders to access performance insights more efficiently across marketing initiatives."
+      ],
+      "technologies": [
+        "SQL",
+        "Tableau",
+        "GA4",
+        "Google Analytics",
+        "Excel"
+      ]
+    },
+    {
+      "company": "Mphasis",
+      "title": "Marketing Analyst",
+      "location": "",
+      "startDate": "2022",
+      "endDate": "2024",
+      "description": "Improved lead conversion rates by 14% through campaign analysis using SQL and Excel, identifying underperforming audience segments and supporting optimization efforts across customer acquisition and engagement campaigns.\nDeveloped Power BI dashboards tracking conversion rates, CAC, engagement metrics, and campaign performance, improving reporting visibility and supporting faster decision-making across marketing and business teams.\nConducted customer segmentation and cohort analysis to support targeted marketing campaigns, improving audience engagement across email and paid channels through more personalized communication and campaign targeting strategies.\nSupported A/B testing initiatives by analyzing campaign performance results, identifying improvement opportunities, and contributing recommendations that reduced customer acquisition costs across multiple digital marketing campaigns.\nReduced manual reporting effort by 30% through automation of recurring marketing reports using SQL and Excel, improving reporting accuracy, consistency, and delivery timelines across marketing operations teams.\nAnalyzed historical campaign performance trends and seasonal engagement patterns, supporting campaign planning activities and helping teams improve budget allocation decisions across ongoing marketing initiatives.\nAssisted with campaign tracking validation by reviewing UTM parameters, monitoring Google Analytics performance data, and supporting accurate reporting of campaign metrics across digital marketing channels.\nPresented campaign insights and performance summaries during stakeholder meetings, helping teams understand campaign outcomes and supporting more consistent execution across marketing and business operations initiatives.",
+      "achievements": [
+        "Improved lead conversion rates by 14% through campaign analysis using SQL and Excel, identifying underperforming audience segments and supporting optimization efforts across customer acquisition and engagement campaigns.",
+        "Developed Power BI dashboards tracking conversion rates, CAC, engagement metrics, and campaign performance, improving reporting visibility and supporting faster decision-making across marketing and business teams.",
+        "Conducted customer segmentation and cohort analysis to support targeted marketing campaigns, improving audience engagement across email and paid channels through more personalized communication and campaign targeting strategies.",
+        "Supported A/B testing initiatives by analyzing campaign performance results, identifying improvement opportunities, and contributing recommendations that reduced customer acquisition costs across multiple digital marketing campaigns.",
+        "Reduced manual reporting effort by 30% through automation of recurring marketing reports using SQL and Excel, improving reporting accuracy, consistency, and delivery timelines across marketing operations teams.",
+        "Analyzed historical campaign performance trends and seasonal engagement patterns, supporting campaign planning activities and helping teams improve budget allocation decisions across ongoing marketing initiatives.",
+        "Assisted with campaign tracking validation by reviewing UTM parameters, monitoring Google Analytics performance data, and supporting accurate reporting of campaign metrics across digital marketing channels.",
+        "Presented campaign insights and performance summaries during stakeholder meetings, helping teams understand campaign outcomes and supporting more consistent execution across marketing and business operations initiatives."
+      ],
+      "technologies": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Google Analytics"
+      ]
+    }
+  ]
+}

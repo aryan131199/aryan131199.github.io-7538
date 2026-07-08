@@ -1,0 +1,24 @@
+{
+  "heading": "Education",
+  "entries": [
+    {
+      "institution": "Hult International Business School",
+      "degree": "MSc",
+      "field": "International Business (Analytics)",
+      "startDate": "2025",
+      "endDate": "2025",
+      "gpa": "",
+      "honors": []
+    },
+    {
+      "institution": "OP Jindal Global University",
+      "degree": "Bachelors",
+      "field": "Business Administration",
+      "startDate": "2022",
+      "endDate": "2022",
+      "gpa": "",
+      "honors": []
+    }
+  ],
+  "certifications": []
+}

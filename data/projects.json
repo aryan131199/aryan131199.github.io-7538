@@ -1,0 +1,118 @@
+{
+  "heading": "Selected Projects",
+  "projects": [
+    {
+      "name": "cross-channel--ads-dashboard",
+      "description": "A production-ready, interactive analytics dashboard unifying Facebook, Google, and TikTok Ads data. Built with Python, Plotly Dash, and Pandas.",
+      "technologies": [
+        "Python"
+      ],
+      "category": "Backend Development",
+      "liveUrl": "https://cross-channel-ads-dashboard.vercel.app",
+      "githubUrl": "https://github.com/aryan131199/cross-channel--ads-dashboard"
+    },
+    {
+      "name": "ecommerce-lakehouse-medallion",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "category": "Backend Development",
+      "liveUrl": "https://github.com/aryan131199/ecommerce-lakehouse-medallion",
+      "githubUrl": "https://github.com/aryan131199/ecommerce-lakehouse-medallion"
+    },
+    {
+      "name": "retail-data-analytics-project-python-sql-integration",
+      "description": "Comprehensive project exploring software design patterns",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "category": "Backend Development",
+      "liveUrl": "https://github.com/aryan131199/retail-data-analytics-project-python-sql-integration",
+      "githubUrl": "https://github.com/aryan131199/retail-data-analytics-project-python-sql-integration"
+    },
+    {
+      "name": "cohort_analysis",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "category": "Software Development",
+      "liveUrl": "https://github.com/aryan131199/cohort_analysis",
+      "githubUrl": "https://github.com/aryan131199/cohort_analysis"
+    },
+    {
+      "name": "data-analytics-customer-segmentation",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "category": "Software Development",
+      "liveUrl": "https://github.com/aryan131199/data-analytics-customer-segmentation",
+      "githubUrl": "https://github.com/aryan131199/data-analytics-customer-segmentation"
+    },
+    {
+      "name": "customer-trends-data-analysis-sql-python-powerbi",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "category": "Software Development",
+      "liveUrl": "https://github.com/aryan131199/customer-trends-data-analysis-sql-python-powerbi",
+      "githubUrl": "https://github.com/aryan131199/customer-trends-data-analysis-sql-python-powerbi"
+    },
+    {
+      "name": "multi-source-marketing-analytics",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "category": "Backend Development",
+      "liveUrl": "https://github.com/aryan131199/multi-source-marketing-analytics",
+      "githubUrl": "https://github.com/aryan131199/multi-source-marketing-analytics"
+    },
+    {
+      "name": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "technologies": [],
+      "category": "Development",
+      "liveUrl": "https://github.com/aryan131199/contribution-history",
+      "githubUrl": "https://github.com/aryan131199/contribution-history"
+    },
+    {
+      "name": "analytics-engineering-prototype",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [],
+      "category": "Development",
+      "liveUrl": "https://github.com/aryan131199/analytics-engineering-prototype",
+      "githubUrl": "https://github.com/aryan131199/analytics-engineering-prototype"
+    },
+    {
+      "name": "powerbi-portfolio",
+      "description": "Personal project for exploring modern development practices",
+      "technologies": [],
+      "category": "Development",
+      "liveUrl": "https://github.com/aryan131199/powerbi-portfolio",
+      "githubUrl": "https://github.com/aryan131199/powerbi-portfolio"
+    },
+    {
+      "name": "dashboards-development-using-tableau-and-powerbi",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [],
+      "category": "Development",
+      "liveUrl": "https://github.com/aryan131199/dashboards-development-using-tableau-and-powerbi",
+      "githubUrl": "https://github.com/aryan131199/dashboards-development-using-tableau-and-powerbi"
+    },
+    {
+      "name": "sales-insights-data-analysis-using-tableau-and-sql",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [],
+      "category": "Development",
+      "liveUrl": "https://github.com/aryan131199/sales-insights-data-analysis-using-tableau-and-sql",
+      "githubUrl": "https://github.com/aryan131199/sales-insights-data-analysis-using-tableau-and-sql"
+    }
+  ]
+}

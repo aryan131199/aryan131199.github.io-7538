@@ -1,0 +1,61 @@
+{
+  "heading": "Skills & Expertise",
+  "categories": [
+    {
+      "name": "Languages",
+      "items": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "items": [
+        "Advanced Excel",
+        "Pivot Tables",
+        "VLOOKUP",
+        "Data Cleaning",
+        "Data Validation",
+        "Tableau",
+        "Power BI",
+        "Google Analytics (GA4)",
+        "Google Tag Manager (GTM)",
+        "Google Ads",
+        "Meta Ads Manager",
+        "Snowflake",
+        "Google BigQuery",
+        "Amazon Redshift"
+      ]
+    },
+    {
+      "name": "Technical",
+      "items": [
+        "Performance Reporting",
+        "KPI Tracking",
+        "Dashboard Development",
+        "Marketing Reporting",
+        "Data Visualization",
+        "Campaign Performance Analysis",
+        "Funnel Analysis",
+        "A/B Testing",
+        "Customer Segmentation",
+        "Cohort Analysis",
+        "Attribution Analysis",
+        "Conversion Rate Optimization (CRO)",
+        "Campaign Tracking",
+        "UTM Parameter Tracking",
+        "Conversion Rate",
+        "Click-Through Rate (CTR)",
+        "Customer Acquisition Cost (CAC)",
+        "Return on Ad Spend (ROAS)",
+        "Cost per Acquisition (CPA)",
+        "Engagement Metrics",
+        "Retention Metrics",
+        "Stakeholder Communication",
+        "Insight Presentation",
+        "Cross-Functional Collaboration",
+        "Data Interpretation",
+        "Marketing Strategy Support"
+      ]
+    }
+  ]
+}
