@@ -8,6 +8,8 @@
         "Python"
       ],
       "category": "Backend Development",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Analytics dashboard with charts on a laptop screen",
       "liveUrl": "https://cross-channel-ads-dashboard.vercel.app",
       "githubUrl": "https://github.com/aryan131199/cross-channel--ads-dashboard"
     },
@@ -19,6 +21,8 @@
         "Python"
       ],
       "category": "Backend Development",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Developer workstation showing code and data tools",
       "liveUrl": "https://github.com/aryan131199/ecommerce-lakehouse-medallion",
       "githubUrl": "https://github.com/aryan131199/ecommerce-lakehouse-medallion"
     },
@@ -30,6 +34,8 @@
         "Python"
       ],
       "category": "Backend Development",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Business analytics charts displayed on a laptop",
       "liveUrl": "https://github.com/aryan131199/retail-data-analytics-project-python-sql-integration",
       "githubUrl": "https://github.com/aryan131199/retail-data-analytics-project-python-sql-integration"
     },
@@ -40,6 +46,8 @@
         "Jupyter Notebook"
       ],
       "category": "Software Development",
+      "imageUrl": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Printed analytics report with graphs and trend lines",
       "liveUrl": "https://github.com/aryan131199/cohort_analysis",
       "githubUrl": "https://github.com/aryan131199/cohort_analysis"
     },
@@ -50,6 +58,8 @@
         "Jupyter Notebook"
       ],
       "category": "Software Development",
+      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Team planning customer segments on a whiteboard",
       "liveUrl": "https://github.com/aryan131199/data-analytics-customer-segmentation",
       "githubUrl": "https://github.com/aryan131199/data-analytics-customer-segmentation"
     },
@@ -60,6 +70,8 @@
         "Jupyter Notebook"
       ],
       "category": "Software Development",
+      "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Data visualization dashboard with colorful graphs",
       "liveUrl": "https://github.com/aryan131199/customer-trends-data-analysis-sql-python-powerbi",
       "githubUrl": "https://github.com/aryan131199/customer-trends-data-analysis-sql-python-powerbi"
     },
@@ -71,6 +83,8 @@
         "Python"
       ],
       "category": "Backend Development",
+      "imageUrl": "https://images.unsplash.com/photo-1556155092-490a1ba16284?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Marketing analytics workspace with charts and planning notes",
       "liveUrl": "https://github.com/aryan131199/multi-source-marketing-analytics",
       "githubUrl": "https://github.com/aryan131199/multi-source-marketing-analytics"
     },
@@ -79,6 +93,8 @@
       "description": "Generated GitHub contribution history",
       "technologies": [],
       "category": "Development",
+      "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Code editor showing a software project",
       "liveUrl": "https://github.com/aryan131199/contribution-history",
       "githubUrl": "https://github.com/aryan131199/contribution-history"
     },
@@ -87,6 +103,8 @@
       "description": "Educational project for mastering software architecture",
       "technologies": [],
       "category": "Development",
+      "imageUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Abstract data infrastructure and analytics visualization",
       "liveUrl": "https://github.com/aryan131199/analytics-engineering-prototype",
       "githubUrl": "https://github.com/aryan131199/analytics-engineering-prototype"
     },
@@ -95,6 +113,8 @@
       "description": "Personal project for exploring modern development practices",
       "technologies": [],
       "category": "Development",
+      "imageUrl": "https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Business intelligence dashboard work on a laptop",
       "liveUrl": "https://github.com/aryan131199/powerbi-portfolio",
       "githubUrl": "https://github.com/aryan131199/powerbi-portfolio"
     },
@@ -103,6 +123,8 @@
       "description": "Practice repository for exploring advanced features",
       "technologies": [],
       "category": "Development",
+      "imageUrl": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Dashboard charts and metrics on a computer display",
       "liveUrl": "https://github.com/aryan131199/dashboards-development-using-tableau-and-powerbi",
       "githubUrl": "https://github.com/aryan131199/dashboards-development-using-tableau-and-powerbi"
     },
@@ -111,6 +133,8 @@
       "description": "Full-featured application built as a learning exercise",
       "technologies": [],
       "category": "Development",
+      "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1400&q=80",
+      "imageAlt": "Sales and finance analysis documents on a desk",
       "liveUrl": "https://github.com/aryan131199/sales-insights-data-analysis-using-tableau-and-sql",
       "githubUrl": "https://github.com/aryan131199/sales-insights-data-analysis-using-tableau-and-sql"
     }

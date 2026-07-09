@@ -3,6 +3,8 @@
   "positions": [
     {
       "company": "Amazon",
+      "logoUrl": "assets/img/logos/amazon.svg",
+      "logoAlt": "Amazon logo",
       "title": "Marketing Analyst",
       "location": "",
       "startDate": "2025",
@@ -28,6 +30,8 @@
     },
     {
       "company": "Mphasis",
+      "logoUrl": "assets/img/logos/mphasis.svg",
+      "logoAlt": "Mphasis logo",
       "title": "Marketing Analyst",
       "location": "",
       "startDate": "2022",

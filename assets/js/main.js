@@ -65,6 +65,14 @@
   // DOM RENDERING
   // =========================================================================
 
+  function escapeAttr(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/"/g, '&quot;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;');
+  }
+
   function renderSiteConfig(config) {
     if (!config) return;
     document.title = config.siteName || 'Portfolio';
@@ -207,11 +215,25 @@
     if (listEl && exp.positions) {
       listEl.innerHTML = exp.positions
         .map(function (pos) {
+          var logoUrl = pos.logoUrl || pos.companyLogo || '';
+          var logoAlt = pos.logoAlt || ((pos.company || 'Company') + ' logo');
+          var logoText = (pos.logoText || pos.company || '?').trim().charAt(0).toUpperCase();
+          var logoHtml = '<div class="experience-logo" aria-label="' + escapeAttr(logoAlt) + '">' +
+            (logoUrl
+              ? '<img src="' + escapeAttr(logoUrl) + '" alt="' + escapeAttr(logoAlt) + '" loading="lazy" decoding="async" />'
+              : '<span>' + escapeAttr(logoText) + '</span>') +
+            '</div>';
+
           return '<div class="experience-item">' +
             '<div class="experience-date">' + (pos.startDate || '') + (pos.endDate ? ' - ' + pos.endDate : '') + '</div>' +
             '<div class="experience-info">' +
+            '<div class="experience-header">' +
+            logoHtml +
+            '<div>' +
             '<h3>' + (pos.title || '') + '</h3>' +
             '<p class="experience-company">' + (pos.company || '') + '</p>' +
+            '</div>' +
+            '</div>' +
             '<p class="experience-description">' + (pos.description || '') + '</p>' +
             '</div>' +
             '<div class="experience-location">' + (pos.location || '') + '</div>' +
@@ -281,6 +303,11 @@
       listEl.innerHTML = projects.projects
         .map(function (proj) {
           var category = proj.category || inferCategory(proj);
+          var imageUrl = proj.imageUrl || proj.image || '';
+          var imageAlt = proj.imageAlt || ((proj.name || 'Project') + ' preview image');
+          var imageHtml = imageUrl
+            ? '<img class="project-image" src="' + escapeAttr(imageUrl) + '" alt="' + escapeAttr(imageAlt) + '" loading="lazy" decoding="async" />'
+            : '';
           var techHtml = (proj.technologies || [])
             .map(function (t) { return '<span>' + t + '</span>'; })
             .join('');
@@ -291,7 +318,8 @@
             linksHtml.push('<a href="' + proj.githubUrl + '" target="_blank" rel="noopener">Source &rarr;</a>');
 
           return '<div class="project-item">' +
-            '<div class="project-visual">' +
+            '<div class="project-visual' + (imageHtml ? ' has-image' : '') + '">' +
+            imageHtml +
             '<div class="project-visual-inner">' + (proj.name || '') + '</div>' +
             '</div>' +
             '<div class="project-info">' +
