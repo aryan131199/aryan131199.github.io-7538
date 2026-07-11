@@ -336,6 +336,29 @@ nav {
 .hero-content {
   text-align: center;
   z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transform: translateY(-3rem);
+}
+
+.hero-photo {
+  width: clamp(8rem, 16vw, 13rem);
+  aspect-ratio: 1;
+  margin-bottom: 1.5rem;
+  border: 2px solid var(--fg);
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--bg2);
+  box-shadow: 0 1.25rem 3rem rgba(20, 20, 20, 0.16);
+}
+
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center 32%;
 }
 
 .hero-greeting {
@@ -1273,6 +1296,15 @@ footer {
 
   .hero {
     padding: 1.5rem;
+  }
+
+  .hero-content {
+    transform: translateY(-1rem);
+  }
+
+  .hero-photo {
+    width: clamp(7rem, 34vw, 9rem);
+    margin-bottom: 1rem;
   }
 
   .hero-name-1 {

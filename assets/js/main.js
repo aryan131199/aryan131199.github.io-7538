@@ -114,8 +114,19 @@
     var titleEl = document.getElementById('heroTitle');
     var taglineEl = document.getElementById('heroTagline');
     var socialLinksEl = document.getElementById('heroSocialLinks');
+    var photoEl = document.getElementById('heroPhoto');
 
     if (greetingEl) greetingEl.textContent = hero.greeting || '';
+    if (photoEl) {
+      if (hero.photoUrl) {
+        var photoAlt = hero.photoAlt || hero.name || 'Profile photo';
+        photoEl.innerHTML =
+          '<img src="' + escapeAttr(hero.photoUrl) + '" alt="' + escapeAttr(photoAlt) + '" decoding="async" />';
+        photoEl.style.display = '';
+      } else {
+        photoEl.style.display = 'none';
+      }
+    }
 
     // Split name into two lines, with each character wrapped for animation
     if (hero.name) {
@@ -634,12 +645,19 @@
     var heroTl = gsap.timeline({ delay: 0.8 });
 
     heroTl
+      .from('.hero-photo', {
+        y: 24,
+        scale: 0.92,
+        opacity: 0,
+        duration: 0.8,
+        ease: 'power3.out',
+      })
       .from('.hero-greeting', {
         y: 30,
         opacity: 0,
         duration: 0.8,
         ease: 'power3.out',
-      })
+      }, '-=0.45')
       .to(
         '.hero-name-1 .char',
         {
